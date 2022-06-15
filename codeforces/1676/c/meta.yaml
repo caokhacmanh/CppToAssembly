@@ -1,0 +1,16 @@
+problem:
+  arg:
+    contest: "1676"
+    problem: c
+    class: contest
+    group: ""
+  inputStream: standard input
+  memoryLimit: 256 megabytes
+  name: C. Most Similar Words
+  outputStream: standard output
+  test:
+    input:
+    - tests/0.in
+    output:
+    - tests/0.out
+  timeLimit: 2 seconds

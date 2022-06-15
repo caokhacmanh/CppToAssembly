@@ -1,0 +1,16 @@
+problem:
+  arg:
+    contest: "1676"
+    problem: g
+    class: contest
+    group: ""
+  inputStream: standard input
+  memoryLimit: 256 megabytes
+  name: G. White-Black Balanced Subtrees
+  outputStream: standard output
+  test:
+    input:
+    - tests/0.in
+    output:
+    - tests/0.out
+  timeLimit: 1 second

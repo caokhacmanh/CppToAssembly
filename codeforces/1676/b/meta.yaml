@@ -1,0 +1,16 @@
+problem:
+  arg:
+    contest: "1676"
+    problem: b
+    class: contest
+    group: ""
+  inputStream: standard input
+  memoryLimit: 256 megabytes
+  name: B. Equal Candies
+  outputStream: standard output
+  test:
+    input:
+    - tests/0.in
+    output:
+    - tests/0.out
+  timeLimit: 1 second
